@@ -4,7 +4,7 @@ const services = [
     {
         image: `${images.services_img_1}`,
         title: "Front-end",
-        paragraph: "HTML, CSS, BOOTSTRAP, JavaScript, Redux, ReactJS, API call, Material UI, TailWind CSS"
+        paragraph: "HTML, CSS, BOOTSTRAP, JavaScript, Redux, ReactJS, API call, TailWind CSS"
     },
     {
         image: `${images.services_img_2}`,
@@ -37,7 +37,7 @@ const works = [
     {
         image: `${images.work_img_1}`,
         link: "https://namangan-city-uz.netlify.app/",
-        desc: "Namangan Tour Website - ReactJS, MySQL"
+        desc: "Namangan Tour Full Website - ReactJS, NodeJS, ExpressJS, MySQL"
         
     },
     {
