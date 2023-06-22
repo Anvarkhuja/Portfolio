@@ -36,7 +36,7 @@ const services = [
 const works = [
     {
         image: `${images.work_img_1}`,
-        link: "https://namangan-city-uz.netlify.app/",
+        link: "https://namangan.vercel.app/",
         desc: "Namangan Tour Full Website - ReactJS, NodeJS, ExpressJS, MySQL"
         
     },
