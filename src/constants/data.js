@@ -16,11 +16,11 @@ const services = [
         title: "Responsive",
         paragraph: "MOBILE, TAB, DESKTOP"
     },
-    // {
-    //     image: `${images.services_img_4}`,
-    //     title: "Branding",
-    //     paragraph: "Business Card uchun 1-sahifali web-site, QR-code."
-    // },
+    {
+        image: `${images.services_img_4}`,
+        title: "Website with Bot",
+        paragraph: "websiteni telegram botga ulash foydalanuvchi qoldirgan habarlar botga kelib tushadi."
+    },
     {
         image: `${images.services_img_5}`,
         title: "UI design",
@@ -49,6 +49,11 @@ const works = [
         image: `${images.work_img_3}`,
         link: "https://mistertube.vercel.app/",
         desc: "YOU TUBE anolog - ReactJS with RapidAPI"
+    },
+    {
+        image: `${images.work_img_4}`,
+        link: "https://hamroh-hostel.uz/",
+        desc: "Landing page for Hostel"
     },
    
 ];
