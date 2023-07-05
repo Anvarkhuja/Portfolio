@@ -31,6 +31,16 @@ const services = [
         title: "Deployment & Hosting",
         paragraph: "@HOST.UZ, GIT HUB, VERCEL, NETLIFY, HEROKU,"
     },
+    {
+        image: `${images.services_img_7}`,
+        title: "Content Creation & Mobilography",
+        paragraph: "Sizning mijozlaringizga yoqadigon mavzu g'oyalarini yaratish, va uni yozma, video blog ko'rinishida auditoriyangizga taqdim etamiz"
+    },
+    {
+        image: `${images.services_img_8}`,
+        title: "SMM",
+        paragraph: "ijtimoiy tarmoqlardan mijozlarni mahsulot va xizmatlaringizga jalb etish,o'z brendingizni web-site va ijtimoiy tarmoqlarda(Facebook, Instagram, Telegram, TikTok, v.hk) tanitish."
+    },
 ];
 
 const works = [
